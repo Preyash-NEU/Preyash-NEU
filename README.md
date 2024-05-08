@@ -7,7 +7,7 @@
   -  [Husky Events](https://huskyEvents.onrender.com)
   -  [Voting Application using Blockchain Technology](https://www.ijresm.com/Vol.3_2020/Vol3_Iss6_June20/IJRESM_V3_I6_44.pdf)
   
-- 🌱 I’m currently learning **Cloud computing and Network Structures ,Programing Structures and Algorithms, Design Patterns, OOD, Web Development and Design**
+- 🌱 I’m currently learning **Cloud computing and Network Structures ,Programing Structures and Algorithms, Design Patterns, OOD, Web Development and Design Patterns**
 
 - 💬 Ask me about **Java, JavaScript, Python, .NET, SQL, MongoDB, HTML/CSS, React, Node.js, Angular, TailwindCSS, Android, Firebase, AzureDevOps, AWS,**
 
