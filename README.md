@@ -4,14 +4,14 @@
 
 
 - 📽️ My highlight projects
-  -  [Husky Events](https://huskyEvents.onrender.com)
   -  [InsightsIQ](https://github.com/Preyash-NEU/InsightIQ)
+  -  [Husky Events](https://huskyEvents.onrender.com)
   
 - 🌱 I’m currently learning **Cloud computing and Network Structures ,Programing Structures and Algorithms, Design Patterns, OOD, Web Development and Design Patterns**
 
 - 💬 Ask me about **JavaScript, Node.js, Java, Spring Framwork, Python, React, AWS, Redis, Kafka, Docker, Kubernetes, MySQL, PostgreSQL, .Net, Angular, Tailwind, Android, Firbase, Azure**
 
-- 📫 How to reach me **mehta.prey@northeastern.edu**
+- 📫 How to reach me **preyash.ja@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/preyash-mehta](linkedin.com/in/preyash-mehta)
 
